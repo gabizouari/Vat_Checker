@@ -1,0 +1,4 @@
+app/code/local/Euvatchecker/ app/code/local/Euvatchecker/
+app/design/frontend/base/default/layout/euvatchecker.xml app/design/frontend/base/default/layout/euvatchecker.xml
+app/design/frontend/base/default/template/euvatchecker/index.phtml app/design/frontend/base/default/template/euvatchecker/index.phtml
+app/etc/modules/Lybe_Euvatchecker.xml app/etc/modules/Lybe_Euvatchecker.xml
